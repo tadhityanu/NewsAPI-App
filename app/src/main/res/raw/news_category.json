@@ -1,0 +1,37 @@
+[
+  {
+    "id": "general",
+    "category": "General",
+    "image": "img_world"
+  },
+  {
+    "id": "business",
+    "category": "Business",
+    "image": "img_business"
+  },
+  {
+    "id": "entertainment",
+    "category": "Entertainment",
+    "image": "img_entertainment"
+  },
+  {
+    "id": "health",
+    "category": "Health",
+    "image": "img_health"
+  },
+  {
+    "id": "science",
+    "category": "Science",
+    "image": "img_science"
+  },
+  {
+    "id": "sports",
+    "category": "Sports",
+    "image": "img_sports"
+  },
+  {
+    "id": "technology",
+    "category": "Technology",
+    "image": "img_technology"
+  }
+]
